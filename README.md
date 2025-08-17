@@ -6,13 +6,13 @@ A modular Arduino project that publishes ICM-20948 9-axis IMU data to ROS2 using
 
 ```
 imu_icm20948/
-├── imu_icm20948.ino      # Main Arduino sketch
-├── imu_config.h          # Configuration definitions
-├── imu_sensor.h          # IMU sensor interface
-├── imu_sensor.cpp        # IMU sensor implementation
-├── imu_ros.h             # ROS2 interface
-├── imu_ros.cpp           # ROS2 implementation
-└── README.md             # This file
+├── imu_icm20948.ino    # Main Arduino sketch
+├── imu_config.h        # Configuration definitions
+├── imu_sensor.h        # IMU sensor interface
+├── imu_sensor.cpp      # IMU sensor implementation
+├── imu_ros.h           # ROS2 interface
+└── imu_ros.cpp         # ROS2 implementation
+ README.md              # This file
 ```
 
 ## File Descriptions
